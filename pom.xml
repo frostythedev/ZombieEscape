@@ -20,6 +20,12 @@
             <version>1.8.8-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
+		<!-- Holo -->
+        <dependency>
+            <groupId>HolographicDisplays</groupId>
+            <artifactId>org.filoghost</artifactId>
+            <version>YOUR_VERSION</version>
+        </dependency>
         <!-- HikariCP -->
         <dependency>
             <groupId>com.zaxxer</groupId>
